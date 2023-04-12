@@ -1,0 +1,21 @@
+html,
+@font-face {
+  font-family: pxlboy2;
+  src: url('fonts/pxlboy2.ttf');
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: pxlboy2;
+  font-size: small;
+}
